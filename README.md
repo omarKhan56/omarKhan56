@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">Hey there! 👋 I'm <span style="color:#4CAF50;">Omar Ali Khan</span></h1>
-<h3 align="center">🚀 SDE Enthusiast | MERN Stack Developer | Lifelong Learner</h3>
+<h3 align="center">🚀 SDE Enthusiast | Full Stack Developer | Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=omarkhan56&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
@@ -21,15 +21,14 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌱 Currently learning **Full Stack Development and Artificial Intelligence and Machine Learning**
+- 🌱 Currently learning **Full Stack Development and AI/ML**
 - 📫 Reach me at **omaralikhan4518@gmail.com**
-- ⚡ Fun fact: I love solving challenges on LeetCode & building cool web apps!
+  
 
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://instagram.com/omar56ak"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
   <a href="https://www.codechef.com/users/omar_ali_k56"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" height="40" width="40" style="filter: invert(50%) sepia(100%) saturate(200%) hue-rotate(10deg);" /></a>
   <a href="https://leetcode.com/coder_eagle3006"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
   <a href="https://auth.geeksforgeeks.org/user/omaralikq6n8"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40"/></a>
