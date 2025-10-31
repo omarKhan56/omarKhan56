@@ -17,7 +17,7 @@
 ### 👨‍💻 About Me
 - 🌱 Currently learning **Full Stack Development and AI/ML**
 - 💡 Passionate about **building efficient and scalable web apps**
-- ⚡ Love exploring **new technologies** and contributing to open-source
+- ⚡ Love exploring **new technologies** 
 - 📫 Reach me at **omaralikhan4518@gmail.com**
 
 ---
