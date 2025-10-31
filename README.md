@@ -9,12 +9,6 @@
 <h3 align="center">🚀 SDE Enthusiast | Full Stack Developer | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omarkhan56&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/omarkhan56?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/omarkhan56?label=Stars&style=for-the-badge&color=yellow" alt="Stars"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C853&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
@@ -22,23 +16,38 @@
 
 ### 👨‍💻 About Me
 - 🌱 Currently learning **Full Stack Development and AI/ML**
+- 💡 Passionate about **building efficient and scalable web apps**
+- ⚡ Love exploring **new technologies** and contributing to open-source
 - 📫 Reach me at **omaralikhan4518@gmail.com**
-  
 
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.codechef.com/users/omar_ali_k56"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" height="40" width="40" style="filter: invert(50%) sepia(100%) saturate(200%) hue-rotate(10deg);" /></a>
-  <a href="https://leetcode.com/coder_eagle3006"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/omaralikq6n8"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40"/></a>
+  <a href="mailto:omaralikhan4518@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="45" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/omar-ali-khan-81697a28b/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="45" height="45"/>
+  </a>
 </p>
 
 ---
 
-### 🧠 Languages & Tools
+### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,react,nodejs,express,mongodb,mysql,postgres,tailwind,aws,docker,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
+</p>
+
+### 🧰 Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode,aws,docker,postman,mysql,postgres" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind" />
 </p>
 
 ---
@@ -51,13 +60,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarkhan56&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
----
-
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omarkhan56&theme=onedark&row=1&no-bg=true&no-frame=true" />
 </p>
 
 ---
