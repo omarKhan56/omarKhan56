@@ -35,6 +35,23 @@
 
 ---
 
+### 💻 Coding Profiles
+<p align="center">
+  <a href="https://leetcode.com/u/coder_eagle3006/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/coder_eagle56" target="_blank">
+    <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" alt="CodeChef" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codolio.com/profile/omar_56" target="_blank">
+    <img src="https://codolio.com/assets/img/logo.png" alt="Codolio" width="50" height="50"/>
+  </a>
+</p>
+
+---
+
 ### 💻 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
@@ -73,4 +90,8 @@
 </p>
 
 ⭐️ **From [Omar Ali Khan](https://github.com/omarkhan56)**
+
+
+
+
 
