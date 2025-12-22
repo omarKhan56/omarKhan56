@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">Hey there! 👋 I'm <span style="color:#4CAF50;">Omar Ali Khan</span></h1>
-<h3 align="center">🚀 SDE Enthusiast | Full Stack Developer | Lifelong Learner</h3>
+<h3 align="center">🚀 SDE Enthusiast |Aspiring Full Stack Developer | Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C853&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
