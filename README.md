@@ -69,11 +69,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=omarkhan56&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=omarkhan56&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarkhan56&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
