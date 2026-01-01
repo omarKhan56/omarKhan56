@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-```js
+
 const omar = {
   role: "Aspiring Full Stack Developer",
   learning: ["MERN Stack", "AI/ML", "System Design"],
@@ -45,4 +45,4 @@ const omar = {
 
 “Code. Learn. Build. Repeat.” 💻🔥
 
-<p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /> </p> <p align="center"> ⭐ From <a href="https://github.com/omarkhan56"><b>Omar Ali Khan</b></a> </p> ```
+<p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /> </p> <p align="center"> ⭐ From <a href="https://github.com/omarkhan56"><b>Omar Ali Khan</b></a> </p> 
