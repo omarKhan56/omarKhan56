@@ -32,19 +32,12 @@
       <img src="https://github-readme-stats.vercel.app/api?username=omarkhan56&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=6C63FF&icon_color=4CAF50&text_color=c9d1d9&border_radius=10&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats"/>
     </td>
     <td align="center" width="50%">
-      
-### 👨‍💻 Quick Info
-      
-🌍 **Location:** Chhatrapati Sambhajinagar, India 🇮🇳
-      
-💼 **Role:** Full Stack Developer
-      
-🎯 **Focus:** MERN Stack & System Design
-      
-🌱 **Learning:** AI/ML, Cloud Architecture (AWS)
-      
-☕ **Fun Fact:** Coffee → Code → Repeat!
-      
+<h3>👨‍💻 Quick Info</h3>
+<p>🌍 <b>Location:</b> Chhatrapati Sambhajinagar, India 🇮🇳</p>
+<p>💼 <b>Role:</b> Full Stack Developer</p>
+<p>🎯 <b>Focus:</b> MERN Stack & System Design</p>
+<p>🌱 <b>Learning:</b> AI/ML, Cloud Architecture (AWS)</p>
+<p>☕ <b>Fun Fact:</b> Coffee → Code → Repeat!</p>
     </td>
   </tr>
 </table>
@@ -52,37 +45,22 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
-      
-### 🔭 Currently Working On
-      
-✨ Full Stack Web Applications
-      
-🚀 Building Scalable Backend Systems
-      
-📱 Responsive React Applications
-      
+<h3>🔭 Currently Working On</h3>
+<p>✨ Full Stack Web Applications</p>
+<p>🚀 Building Scalable Backend Systems</p>
+<p>📱 Responsive React Applications</p>
     </td>
     <td align="center" width="33%">
-      
-### 💡 Exploring
-      
-🧠 System Design Patterns
-      
-☁️ Cloud Architecture (AWS)
-      
-🤖 Machine Learning & AI
-      
+<h3>💡 Exploring</h3>
+<p>🧠 System Design Patterns</p>
+<p>☁️ Cloud Architecture (AWS)</p>
+<p>🤖 Machine Learning & AI</p>
     </td>
     <td align="center" width="34%">
-      
-### 🤝 Open To
-      
-🌟 Open Source Collaborations
-      
-💼 Freelance Projects
-      
-📚 Tech Discussions & Mentoring
-      
+<h3>🤝 Open To</h3>
+<p>🌟 Open Source Collaborations</p>
+<p>💼 Freelance Projects</p>
+<p>📚 Tech Discussions & Mentoring</p>
     </td>
   </tr>
 </table>
