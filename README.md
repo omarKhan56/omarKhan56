@@ -196,131 +196,128 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛒 E-Commerce Platform</h3>
+      <h3 align="center">💬 Gemini Chat App</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge&labelColor=1a1a2e" />
+        <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge&labelColor=1a1a2e" />
         <img src="https://img.shields.io/badge/Type-Full_Stack-6C63FF?style=for-the-badge&labelColor=1a1a2e" />
       </div>
       <br>
       <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-        <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" />
       </p>
       <p><strong>Features:</strong></p>
       <ul>
-        <li>🔐 JWT Authentication & Authorization</li>
-        <li>🛍️ Product Search, Filter & Pagination</li>
-        <li>💳 Secure Payment Gateway Integration</li>
-        <li>📊 Admin Dashboard with Analytics</li>
-        <li>⭐ Review & Rating System</li>
-        <li>📧 Email Notifications</li>
+        <li>🤖 AI-Powered Chat Interface</li>
+        <li>💬 Real-time Conversations</li>
+        <li>🎨 Modern UI Design</li>
+        <li>📱 Responsive Layout</li>
+        <li>⚡ Fast Response Time</li>
+        <li>🔐 Secure Communication</li>
       </ul>
       <div align="center">
-        <a href="https://github.com/omarkhan56">
+        <a href="https://github.com/omarkhan56/Gemini-Chat-App">
           <img src="https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
         </a>
-        <a href="#">
-          <img src="https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" />
+        <a href="https://github.com/omarkhan56/Gemini-Chat-App">
+          <img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" />
         </a>
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📋 Task Management App</h3>
+      <h3 align="center">✈️ Airline Reservation System</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&labelColor=1a1a2e" />
         <img src="https://img.shields.io/badge/Type-Full_Stack-4CAF50?style=for-the-badge&labelColor=1a1a2e" />
       </div>
       <br>
       <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white" />
       </p>
       <p><strong>Features:</strong></p>
       <ul>
-        <li>✅ Drag & Drop Task Management</li>
-        <li>👥 Team Collaboration & Assignments</li>
-        <li>📅 Calendar Integration</li>
-        <li>📊 Progress Tracking & Reports</li>
-        <li>🔔 Real-time Notifications</li>
-        <li>📱 Responsive Design</li>
+        <li>✈️ Flight Booking System</li>
+        <li>👥 User Management</li>
+        <li>💳 Payment Processing</li>
+        <li>📊 Database Integration</li>
+        <li>🔍 Flight Search & Filter</li>
+        <li>📧 Booking Confirmations</li>
       </ul>
       <div align="center">
-        <a href="https://github.com/omarkhan56">
+        <a href="https://github.com/omarkhan56/Airline-Reservation-System">
           <img src="https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
         </a>
-        <a href="#">
-          <img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" />
+        <a href="https://github.com/omarkhan56/Airline-Reservation-System">
+          <img src="https://img.shields.io/badge/Explore-4CAF50?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
         </a>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">💬 Real-Time Chat Application</h3>
+      <h3 align="center">📝 AttendEase</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge&labelColor=1a1a2e" />
         <img src="https://img.shields.io/badge/Type-Full_Stack-FF6B6B?style=for-the-badge&labelColor=1a1a2e" />
       </div>
       <br>
       <p align="center">
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
       <p><strong>Features:</strong></p>
       <ul>
-        <li>⚡ Real-time Messaging with Socket.io</li>
-        <li>👥 Group Chats & Private Messages</li>
-        <li>📎 File & Image Sharing</li>
-        <li>✅ Read Receipts & Typing Indicators</li>
-        <li>🔍 Message Search & History</li>
-        <li>🌙 Dark/Light Theme Toggle</li>
+        <li>📊 Automated Attendance Tracking</li>
+        <li>📈 Analytics & Reports</li>
+        <li>👨‍🎓 Student Management</li>
+        <li>📅 Schedule Management</li>
+        <li>🔔 Notification System</li>
+        <li>📱 Mobile-Friendly Interface</li>
       </ul>
       <div align="center">
-        <a href="https://github.com/omarkhan56">
+        <a href="https://github.com/omarkhan56/AttendEase">
           <img src="https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
         </a>
-        <a href="#">
+        <a href="https://github.com/omarkhan56/AttendEase">
           <img src="https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" />
         </a>
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌐 Portfolio Website</h3>
+      <h3 align="center">📈 Zerodha TradeVista</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge&labelColor=1a1a2e" />
-        <img src="https://img.shields.io/badge/Type-Frontend-6C63FF?style=for-the-badge&labelColor=1a1a2e" />
+        <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge&labelColor=1a1a2e" />
+        <img src="https://img.shields.io/badge/Type-Full_Stack-2196F3?style=for-the-badge&labelColor=1a1a2e" />
       </div>
       <br>
       <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
       </p>
       <p><strong>Features:</strong></p>
       <ul>
-        <li>✨ Smooth Animations with Framer Motion</li>
-        <li>🎨 Modern UI/UX Design</li>
-        <li>📱 Fully Responsive Layout</li>
-        <li>🌙 Dark Mode Support</li>
-        <li>📧 Contact Form Integration</li>
-        <li>⚡ Optimized Performance</li>
+        <li>📊 Stock Trading Platform</li>
+        <li>📈 Real-time Market Data</li>
+        <li>💰 Portfolio Management</li>
+        <li>📉 Trading Analytics</li>
+        <li>🔐 Secure Transactions</li>
+        <li>📱 MERN Stack Architecture</li>
       </ul>
       <div align="center">
-        <a href="https://github.com/omarkhan56">
+        <a href="https://github.com/omarkhan56/Zerodha-TradeVista">
           <img src="https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
         </a>
-        <a href="#">
-          <img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" />
+        <a href="https://github.com/omarkhan56/Zerodha-TradeVista">
+          <img src="https://img.shields.io/badge/Explore-2196F3?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
         </a>
       </div>
     </td>
@@ -392,4 +389,3 @@
 <div align="center">
   <sub>⭐️ From <a href="https://github.com/omarkhan56">omarkhan56</a> with ❤️ | Last Updated: 2026</sub>
 </div>
-
