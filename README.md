@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-   
+  
   <!-- Animated Typing Effect -->
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Full+Stack+Developer+%7C+Problem+Solver;Turning+Ideas+Into+Scalable+Solutions+%F0%9F%9A%80;Always+Learning+%7C+Always+Building+%F0%9F%92%BB" alt="Typing SVG" />
 
