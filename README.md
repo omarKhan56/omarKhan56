@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=OMAR%20ALI%20KHAN&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Crafting%20Innovative%20Solutions%20|%20One%20Line%20at%20a%20Time&descAlignY=55&descSize=20" width="100%"/>
 </p>
 
-<div align="center">
+<div align= "center">
   
   <!-- Animated Typing Effect -->
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Full+Stack+Developer+%7C+Problem+Solver;Turning+Ideas+Into+Scalable+Solutions+%F0%9F%9A%80;Always+Learning+%7C+Always+Building+%F0%9F%92%BB" alt="Typing SVG" />
