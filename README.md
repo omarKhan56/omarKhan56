@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=OMAR%20ALI%20KHAN&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Crafting%20Innovative%20Solutions%20|%20One%20Line%20at%20a%20Time&descAlignY=55&descSize=20" width="100%"/>
 </p>
-
+ 
 <div align= "center">
   
   <!-- Animated Typing Effect -->
