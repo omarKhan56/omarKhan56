@@ -1,391 +1,313 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=OMAR%20ALI%20KHAN&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Crafting%20Innovative%20Solutions%20|%20One%20Line%20at%20a%20Time&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:7c3aed&height=280&section=header&text=OMAR%20ALI%20KHAN&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20•%20MERN%20Developer%20•%20System%20Design%20Enthusiast&descAlignY=58&descSize=20"/>
 </p>
-  
-<div align= "center">
-  
-  <!-- Animated Typing Effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Full+Stack+Developer+%7C+Problem+Solver;Turning+Ideas+Into+Scalable+Solutions+%F0%9F%9A%80;Always+Learning+%7C+Always+Building+%F0%9F%92%BB" alt="Typing SVG" />
 
-  <!-- Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/🚀_Status-Building_Amazing_Things-6C63FF?style=for-the-badge&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/💡_Focus-MERN_Stack_+_AI-4CAF50?style=for-the-badge&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/📚_Currently-System_Design-FF6B6B?style=for-the-badge&labelColor=1a1a2e" />
-  </p>
+<h1 align="center">Hi 👋, I'm Omar Ali Khan</h1>
 
-  <!-- Profile Stats -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=omarkhan56&label=Profile+Views&color=6C63FF&style=for-the-badge&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/github/followers/omarkhan56?label=Followers&style=for-the-badge&color=4CAF50&labelColor=1a1a2e&logo=github" />
-    <img src="https://img.shields.io/github/stars/omarkhan56?label=Total+Stars&style=for-the-badge&color=FF6B6B&labelColor=1a1a2e&logo=github" />
-  </p>
+<h3 align="center">
+Full Stack Developer • MERN Stack Engineer • Backend Enthusiast
+</h3>
+
+<p align="center">
+Building scalable applications, production-ready backend systems,
+and modern web experiences 🚀
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Engineer;System+Design+Learner;Docker+%7C+Redis+%7C+AWS;Always+Building+Something+Awesome+🚀" />
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## 🎯 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omarkhan56&label=Profile%20Views&color=8b5cf6&style=for-the-badge" />
+  
+  <img src="https://img.shields.io/github/followers/omarkhan56?style=for-the-badge&color=7c3aed&labelColor=111827" />
+  
+  <img src="https://img.shields.io/github/stars/omarkhan56?style=for-the-badge&color=06b6d4&labelColor=111827" />
+</p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=omarkhan56&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=6C63FF&icon_color=4CAF50&text_color=c9d1d9&border_radius=10&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats"/>
-    </td>
-    <td align="center" width="50%">
-<h3>👨‍💻 Quick Info</h3>
-<p>🌍 <b>Location:</b> Chhatrapati Sambhajinagar, India 🇮🇳</p>
-<p>💼 <b>Role:</b> Full Stack Developer</p>
-<p>🎯 <b>Focus:</b> MERN Stack & System Design</p>
-<p>🌱 <b>Learning:</b> AI/ML, Cloud Architecture (AWS)</p>
-<p>☕ <b>Fun Fact:</b> Coffee → Code → Repeat!</p>
-    </td>
-  </tr>
+---
+
+# 🚀 About Me
+
+```bash
+> whoami
+Omar Ali Khan
+
+> role
+Full Stack Developer
+
+> currently_learning
+System Design • Redis • AWS • Docker • Scalable Architectures
+
+> focus
+Building Production-Ready Applications
+
+> fun_fact
+Coffee ☕ + Code 💻 = Happiness 🚀
+```
+
+---
+
+# 🧠 Engineering Interests
+
+- ⚡ Scalable Backend Systems
+- 🏗️ System Design & Architecture
+- 🔥 API Optimization
+- 🗄️ Database Indexing
+- ⚙️ Redis Caching
+- 🐳 Dockerized Applications
+- ☁️ AWS Cloud Deployment
+- 🚀 CI/CD Pipelines
+
+---
+
+# 🚀 Currently Building
+
+| Project | Description |
+|---|---|
+| 📚 AttendEase | Smart attendance management system |
+| 📈 TradeVista | Stock trading dashboard using MERN |
+| 🤖 AI SaaS Tools | AI-integrated productivity apps |
+| 🧠 System Design Projects | Backend architecture & scalability |
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+## 💻 Languages
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c&theme=dark" />
+
+## 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css&theme=dark" />
+
+## ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,graphql&theme=dark" />
+
+## ☁️ DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,postman&theme=dark" />
+
+</div>
+
+---
+
+# 🏆 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🤖 Gemini Chat App
+
+AI-powered real-time chat application using Gemini API.
+
+### 🚀 Features
+- AI Chat Interface
+- Real-time Responses
+- Modern UI
+- Responsive Design
+- Secure Backend
+
+### ⚡ Tech Used
+React • Node.js • Express • Gemini API
+
+<p align="center">
+<a href="https://github.com/omarkhan56/Gemini-Chat-App">
+<img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%">
+
+## 📚 AttendEase
+
+Smart attendance management platform.
+
+### 🚀 Features
+- Student Management
+- Attendance Analytics
+- Schedule Management
+- Reports & Insights
+- Responsive Dashboard
+
+### ⚡ Tech Used
+MERN Stack • MongoDB • Express • React
+
+<p align="center">
+<a href="https://github.com/omarkhan56/AttendEase">
+<img src="https://img.shields.io/badge/View_Project-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+</tr>
 </table>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%">
-<h3>🔭 Currently Working On</h3>
-<p>✨ Full Stack Web Applications</p>
-<p>🚀 Building Scalable Backend Systems</p>
-<p>📱 Responsive React Applications</p>
-    </td>
-    <td align="center" width="33%">
-<h3>💡 Exploring</h3>
-<p>🧠 System Design Patterns</p>
-<p>☁️ Cloud Architecture (AWS)</p>
-<p>🤖 Machine Learning & AI</p>
-    </td>
-    <td align="center" width="34%">
-<h3>🤝 Open To</h3>
-<p>🌟 Open Source Collaborations</p>
-<p>💼 Freelance Projects</p>
-<p>📚 Tech Discussions & Mentoring</p>
-    </td>
-  </tr>
-</table>
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
-  
-### 💬 Ask Me About
-  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-FF6B6B?style=flat-square&logo=thealgorithms&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-6C63FF?style=flat-square&logo=databricks&logoColor=white)
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=omarkhan56&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarkhan56&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🛠️ Technology Arsenal
-
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <h3>💻 Languages</h3>
-      <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java,c&perline=3&theme=dark" />
-    </td>
-    <td align="center" width="25%">
-      <h3>🎨 Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css&perline=3&theme=dark" />
-    </td>
-    <td align="center" width="25%">
-      <h3>⚙️ Backend</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,graphql&perline=3&theme=dark" />
-    </td>
-    <td align="center" width="25%">
-      <h3>🔧 Tools</h3>
-      <img src="https://skillicons.dev/icons?i=git,docker,aws,linux,postman,vscode&perline=3&theme=dark" />
-    </td>
-  </tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=omarkhan56&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=6C63FF&icon_color=4CAF50&text_color=c9d1d9&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarkhan56&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=6C63FF&text_color=c9d1d9&border_radius=10&langs_count=8" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=omarkhan56&theme=tokyonight&hide_border=true&background=1a1a2e&stroke=6C63FF&ring=4CAF50&fire=FF6B6B&currStreakLabel=c9d1d9&border_radius=10" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omarkhan56&theme=tokyonight" width="98%" alt="Contribution Graph"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🏆 GitHub Trophies & Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omarkhan56&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="98%" alt="GitHub Trophies"/>
-</div>
-
-<br>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Total_Commits-1000+-6C63FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/>
-        <br>
-        <sub><b>Consistency Champion</b></sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Pull_Requests-50+-4CAF50?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a2e"/>
-        <br>
-        <sub><b>Collaboration Expert</b></sub>
-      </td>
-      <td align="center" width="34%">
-        <img src="https://img.shields.io/badge/Issues_Resolved-100+-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/>
-        <br>
-        <sub><b>Problem Solver</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-### 🎯 Coding Profiles & Achievements
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://leetcode.com/u/coder_eagle3006/">
-          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-        </a>
-        <br>
-        <sub><b>Problem Solver</b></sub>
-      </td>
-      <td align="center">
-        <a href="https://www.codechef.com/users/coder_eagle56">
-          <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-        </a>
-        <br>
-        <sub><b>Competitive Coder</b></sub>
-      </td>
-      <td align="center">
-        <a href="https://codolio.com/profile/omar_56">
-          <img src="https://img.shields.io/badge/Codolio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-        </a>
-        <br>
-        <sub><b>Profile Showcase</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 💼 Featured Projects
+---
 
 <div align="center">
 
-### 🚀 Building The Future, One Project at a Time
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=omarkhan56&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">💬 Gemini Chat App</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge&labelColor=1a1a2e" />
-        <img src="https://img.shields.io/badge/Type-Full_Stack-6C63FF?style=for-the-badge&labelColor=1a1a2e" />
-      </div>
-      <br>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" />
-      </p>
-      <p><strong>Features:</strong></p>
-      <ul>
-        <li>🤖 AI-Powered Chat Interface</li>
-        <li>💬 Real-time Conversations</li>
-        <li>🎨 Modern UI Design</li>
-        <li>📱 Responsive Layout</li>
-        <li>⚡ Fast Response Time</li>
-        <li>🔐 Secure Communication</li>
-      </ul>
-      <div align="center">
-        <a href="https://github.com/omarkhan56/Gemini-Chat-App">
-          <img src="https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
-        </a>
-        <a href="https://github.com/omarkhan56/Gemini-Chat-App">
-          <img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" />
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">✈️ Airline Reservation System</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&labelColor=1a1a2e" />
-        <img src="https://img.shields.io/badge/Type-Full_Stack-4CAF50?style=for-the-badge&labelColor=1a1a2e" />
-      </div>
-      <br>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white" />
-      </p>
-      <p><strong>Features:</strong></p>
-      <ul>
-        <li>✈️ Flight Booking System</li>
-        <li>👥 User Management</li>
-        <li>💳 Payment Processing</li>
-        <li>📊 Database Integration</li>
-        <li>🔍 Flight Search & Filter</li>
-        <li>📧 Booking Confirmations</li>
-      </ul>
-      <div align="center">
-        <a href="https://github.com/omarkhan56/Airline-Reservation-System">
-          <img src="https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
-        </a>
-        <a href="https://github.com/omarkhan56/Airline-Reservation-System">
-          <img src="https://img.shields.io/badge/Explore-4CAF50?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
-        </a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📝 AttendEase</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge&labelColor=1a1a2e" />
-        <img src="https://img.shields.io/badge/Type-Full_Stack-FF6B6B?style=for-the-badge&labelColor=1a1a2e" />
-      </div>
-      <br>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      </p>
-      <p><strong>Features:</strong></p>
-      <ul>
-        <li>📊 Automated Attendance Tracking</li>
-        <li>📈 Analytics & Reports</li>
-        <li>👨‍🎓 Student Management</li>
-        <li>📅 Schedule Management</li>
-        <li>🔔 Notification System</li>
-        <li>📱 Mobile-Friendly Interface</li>
-      </ul>
-      <div align="center">
-        <a href="https://github.com/omarkhan56/AttendEase">
-          <img src="https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
-        </a>
-        <a href="https://github.com/omarkhan56/AttendEase">
-          <img src="https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" />
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📈 Zerodha TradeVista</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge&labelColor=1a1a2e" />
-        <img src="https://img.shields.io/badge/Type-Full_Stack-2196F3?style=for-the-badge&labelColor=1a1a2e" />
-      </div>
-      <br>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-      </p>
-      <p><strong>Features:</strong></p>
-      <ul>
-        <li>📊 Stock Trading Platform</li>
-        <li>📈 Real-time Market Data</li>
-        <li>💰 Portfolio Management</li>
-        <li>📉 Trading Analytics</li>
-        <li>🔐 Secure Transactions</li>
-        <li>📱 MERN Stack Architecture</li>
-      </ul>
-      <div align="center">
-        <a href="https://github.com/omarkhan56/Zerodha-TradeVista">
-          <img src="https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
-        </a>
-        <a href="https://github.com/omarkhan56/Zerodha-TradeVista">
-          <img src="https://img.shields.io/badge/Explore-2196F3?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+---
+
+# 📈 Contribution Graph
 
 <div align="center">
-  <br>
-  <a href="https://github.com/omarkhan56?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Projects-6C63FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
-  </a>
-</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omarkhan56&bg_color=1a1a2e&color=6C63FF&line=4CAF50&point=FF6B6B&area=true&hide_border=true&custom_title=Omar's%20Contribution%20Graph" width="98%" alt="Activity Graph"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-  
-  <a href="https://www.linkedin.com/in/omar-ali-khan-81697a28b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
-  </a>
-  <a href="mailto:omaralikhan4518@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" />
-  </a>
-  <a href="https://github.com/omarkhan56">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
-  </a>
-  <a href="https://twitter.com/omarkhan56">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a1a2e" />
-  </a>
-
-  <br><br>
-
-  ### 💭 Dev Quote of the Day
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
-
-  <br>
-
-  ### 🎵 Currently Vibing To
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31k56pqגe45gjy6s4u2jtpqju4i&cover_image=true&theme=novatorem&show_offline=false&background_color=1a1a2e&interchange=false&bar_color=6C63FF&bar_color_cover=true" alt="Spotify"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omarkhan56&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## 🐍 Contribution Snake
+# 🧠 LeetCode Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/omarkhan56/omarkhan56/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<img src="https://leetcard.jacoblin.cool/coder_eagle3006?theme=dark&font=JetBrains+Mono&ext=contest"/>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+---
+
+# ⚙️ Dev Environment
+
+```yaml
+OS: Windows + Linux
+Editor: VS Code
+Backend: Node.js + Express
+Frontend: React + TailwindCSS
+Database: MongoDB + PostgreSQL
+DevOps: Docker + AWS
+Version Control: Git + GitHub
+```
+
+---
+
+# 🌍 Open Source Journey
+
+- 🌟 Building scalable applications
+- 🚀 Exploring production architectures
+- 🔥 Learning enterprise engineering
+- 🤝 Open to collaboration
+- 💡 Contributing to open source
+
+---
+
+# 📊 Engineering Metrics
+
+| Metric | Achievement |
+|---|---|
+| 🚀 Projects Built | 15+ |
+| 💻 GitHub Commits | 1000+ |
+| 🧠 DSA Problems | 300+ |
+| ⚡ APIs Developed | 20+ |
+| 🐳 Dockerized Apps | Multiple |
+
+---
+
+# 🛣️ 2026 Goals
+
+- ✅ Master System Design
+- ✅ Learn Kubernetes
+- ✅ Deploy scalable cloud apps
+- ✅ Contribute to open source
+- ✅ Build AI-powered SaaS products
+
+---
+
+# 💭 Developer Philosophy
+
+> “Code should not only work —
+> it should scale, perform, and inspire.”
+
+---
+
+# 🎵 Currently Vibing To
 
 <div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-  <img src="https://forthebadge.com/images/badges/open-source.svg" />
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31k56pqge45gjy6s4u2jtpqju4i&cover_image=true&theme=novatorem"/>
+
 </div>
 
+---
+
+# 🐍 Contribution Snake
+
 <div align="center">
-  <sub>⭐️ From <a href="https://github.com/omarkhan56">omarkhan56</a> with ❤️ | Last Updated: 2026</sub>
+
+<img src="https://raw.githubusercontent.com/omarkhan56/omarkhan56/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/omar-ali-khan-81697a28b/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:omaralikhan4518@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/omarkhan56">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/coder_eagle3006/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+# 🚀 Let's Build Something Amazing Together
+
+If you're interested in:
+- Open Source
+- Full Stack Development
+- System Design
+- Backend Engineering
+- AI Projects
+
+Let's connect and collaborate 🚀
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:7c3aed&height=120&section=footer"/>
+
 </div>
