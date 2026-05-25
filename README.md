@@ -247,17 +247,7 @@ Version Control: Git + GitHub
 > “Code should not only work —
 > it should scale, perform, and inspire.”
 
----
 
-# 🎵 Currently Vibing To
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31k56pqge45gjy6s4u2jtpqju4i&cover_image=true&theme=novatorem"/>
-
-</div>
-
----
 
 # 🐍 Contribution Snake
 
